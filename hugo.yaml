@@ -564,7 +564,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Vaishnavi Annabhemoju."
-    subtitle: "I build things for the web"
+    subtitle: "Software Developer"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
     image: /images/hero.svg
     bottomImage:
