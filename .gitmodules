@@ -1,0 +1,3 @@
+[submodule "my-site"]
+	path = my-site
+	url = https://github.com/vaishnaviannabhemoju/my-site.git
